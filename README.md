@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

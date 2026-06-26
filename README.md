@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamsharma0710/leetcode/tree/master/0290-word-pattern) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -72,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamsharma0710/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shubhamsharma0710/leetcode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamsharma0710/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shubhamsharma0710/leetcode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

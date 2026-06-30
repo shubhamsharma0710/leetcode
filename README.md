@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shubhamsharma0710/leetcode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsharma0710/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->

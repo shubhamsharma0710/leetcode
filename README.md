@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1288-remove-covered-intervals](https://github.com/shubhamsharma0710/leetcode/tree/master/1288-remove-covered-intervals) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1288-remove-covered-intervals](https://github.com/shubhamsharma0710/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |

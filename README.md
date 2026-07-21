@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shubhamsharma0710/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsharma0710/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shubhamsharma0710/leetcode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0202-happy-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |

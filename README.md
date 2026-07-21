@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/shubhamsharma0710/leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shubhamsharma0710/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,8 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

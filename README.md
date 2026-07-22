@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhamsharma0710/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamsharma0710/leetcode/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shubhamsharma0710/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shubhamsharma0710/leetcode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -155,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shubhamsharma0710/leetcode/tree/master/0071-simplify-path) |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

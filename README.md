@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhamsharma0710/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/shubhamsharma0710/leetcode/tree/master/1288-remove-covered-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |

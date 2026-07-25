@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0048-rotate-image) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shubhamsharma0710/leetcode/tree/master/0075-sort-colors) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack

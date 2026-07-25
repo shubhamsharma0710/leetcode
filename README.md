@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhamsharma0710/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shubhamsharma0710/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsharma0710/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shubhamsharma0710/leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamsharma0710/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shubhamsharma0710/leetcode/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |

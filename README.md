@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsharma0710/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsharma0710/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shubhamsharma0710/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shubhamsharma0710/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/shubhamsharma0710/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/shubhamsharma0710/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shubhamsharma0710/leetcode/tree/master/0169-majority-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhamsharma0710/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shubhamsharma0710/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shubhamsharma0710/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shubhamsharma0710/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack

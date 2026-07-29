@@ -14,6 +14,9 @@ public:
                 tank=0;
             }
         }
-        return (totalGas>=totalCost) ? start:-1;
+       if (totalGas >= totalCost)
+          return start;
+       else
+          return -1;
     }
 };

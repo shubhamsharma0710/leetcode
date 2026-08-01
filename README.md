@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsharma0710/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhamsharma0710/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhamsharma0710/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shubhamsharma0710/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shubhamsharma0710/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/shubhamsharma0710/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shubhamsharma0710/leetcode/tree/master/0205-isomorphic-strings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shubhamsharma0710/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shubhamsharma0710/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsharma0710/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/shubhamsharma0710/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/shubhamsharma0710/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/shubhamsharma0710/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhamsharma0710/leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/shubhamsharma0710/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

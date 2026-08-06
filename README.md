@@ -261,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsharma0710/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhamsharma0710/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsharma0710/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhamsharma0710/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -342,9 +344,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

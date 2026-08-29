@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/shubhamsharma0710/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/shubhamsharma0710/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamsharma0710/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamsharma0710/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamsharma0710/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/shubhamsharma0710/leetcode/tree/master/1288-remove-covered-intervals) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/shubhamsharma0710/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsharma0710/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhamsharma0710/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |

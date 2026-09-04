@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shubhamsharma0710/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/shubhamsharma0710/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamsharma0710/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/shubhamsharma0710/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -501,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shubhamsharma0710/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

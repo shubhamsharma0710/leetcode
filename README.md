@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamsharma0710/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shubhamsharma0710/leetcode/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsharma0710/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamsharma0710/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shubhamsharma0710/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |

@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shubhamsharma0710/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/shubhamsharma0710/leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shubhamsharma0710/leetcode/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shubhamsharma0710/leetcode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |

@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shubhamsharma0710/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsharma0710/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsharma0710/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsharma0710/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsharma0710/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -535,4 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shubhamsharma0710/leetcode/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shubhamsharma0710/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

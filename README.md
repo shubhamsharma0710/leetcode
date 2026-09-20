@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsharma0710/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamsharma0710/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |

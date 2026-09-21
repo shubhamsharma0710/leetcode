@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shubhamsharma0710/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhamsharma0710/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamsharma0710/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamsharma0710/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shubhamsharma0710/leetcode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/shubhamsharma0710/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamsharma0710/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

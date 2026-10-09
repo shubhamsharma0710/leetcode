@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsharma0710/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubhamsharma0710/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shubhamsharma0710/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/shubhamsharma0710/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubhamsharma0710/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shubhamsharma0710/leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubhamsharma0710/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -578,4 +581,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubhamsharma0710/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubhamsharma0710/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->

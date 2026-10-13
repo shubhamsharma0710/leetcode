@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamsharma0710/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamsharma0710/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamsharma0710/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/shubhamsharma0710/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamsharma0710/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamsharma0710/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubhamsharma0710/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shubhamsharma0710/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamsharma0710/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |

@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamsharma0710/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shubhamsharma0710/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamsharma0710/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamsharma0710/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0832-flipping-an-image) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhamsharma0710/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shubhamsharma0710/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhamsharma0710/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Monotonic Stack
 |  |

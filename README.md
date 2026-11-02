@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/shubhamsharma0710/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/shubhamsharma0710/leetcode/tree/master/0836-rectangle-overlap) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shubhamsharma0710/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamsharma0710/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/shubhamsharma0710/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubhamsharma0710/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shubhamsharma0710/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |

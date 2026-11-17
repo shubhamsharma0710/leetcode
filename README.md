@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shubhamsharma0710/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shubhamsharma0710/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsharma0710/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shubhamsharma0710/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamsharma0710/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubhamsharma0710/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shubhamsharma0710/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shubhamsharma0710/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/shubhamsharma0710/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shubhamsharma0710/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |

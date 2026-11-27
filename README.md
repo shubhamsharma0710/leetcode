@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shubhamsharma0710/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3934-smallest-unique-subarray](https://github.com/shubhamsharma0710/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shubhamsharma0710/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhamsharma0710/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shubhamsharma0710/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamsharma0710/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shubhamsharma0710/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
